@@ -1,0 +1,16 @@
+{
+  "best_parameters": {
+    "lambda_over": 0.0,
+    "lambda_under": 1.0,
+    "theta_queue": 0.1
+  },
+  "tuned": {
+    "cash_spent": 1113715.0,
+    "avg_price": 222.743
+  },
+  "best_ask": {
+    "cash_spent": 1114118.36,
+    "avg_price": 222.823672
+  },
+  "savings_vs_best_ask_bps": 3.62
+}
