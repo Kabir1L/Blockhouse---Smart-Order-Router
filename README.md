@@ -19,7 +19,7 @@ This project is part of a technical task for a quantitative finance internship. 
 
 ---
 
-## 📌 Objective (Simple Version)
+## 📌 Objective 
 
 Imagine you want to buy 5,000 shares of a stock — but you don’t want to overpay. Instead of buying them all at once, you want a program that decides the best way to split the order across price levels to save money. That’s what this Smart Order Router does.
 
